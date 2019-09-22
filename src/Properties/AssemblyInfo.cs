@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("LapseCapture")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Winforms application that captures your screen. Useful for making timelapse devlog videos.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Literally A Cat Entertainment, LLC")]
 [assembly: AssemblyProduct("LapseCapture")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright © Literally A Cat Entertainment, LLC 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
